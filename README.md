@@ -425,7 +425,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jjv](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
 * [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
-* [ajv](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
+* [ajv](https://github.com/ajv-validator/ajv) - The fastest validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12.
 * [v8r](https://github.com/chris48s/v8r) - Smart validator that uses [Schema Store](https://www.schemastore.org) to detect a suitable schema for your input files based on the filename.
 
 **Java and Kotlin**
